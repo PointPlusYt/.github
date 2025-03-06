@@ -1,4 +1,4 @@
-# PointPlus projects
+# Our projects
 
 ## Morgenbord
 
